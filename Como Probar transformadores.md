@@ -42,5 +42,6 @@ Una vez conocido el devanado primario, mediante el circuito serie, procedemos a 
 <p align="center">
 [![image](https://github.com/l337quez/Apuntes-de-un-Ingeniero-Electronico/tree/master/images/Trafo/test.png)]
 </p>   
+[![image](https://github.com/l337quez/Apuntes-de-un-Ingeniero-Electronico/tree/master/images/Trafo/test.png)]
 
 Como se observa en la figura si conectamos la lampara de 110v en serie al transformador y lo conectamos correctamente en el devanado primario, cuando hagamos contacto en el devanado secundario la lampara va a encender.
