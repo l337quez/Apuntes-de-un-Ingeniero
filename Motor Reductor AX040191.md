@@ -29,6 +29,3 @@ Gracias a los dos PINES 3 y 5, podremos conocer el que angulo esta el eje del mo
 En la siguiente Figura se muestra el piñon que tiene los contactos donde el contacto mas cerca del eje es el que es continuo, donde se puede conectar VCC o GND.
 
 <p align="center"><img src="https://github.com/l337quez/Apuntes-de-un-Ingeniero-Electronico/blob/master/images/MOTORRASMO/contacto.jpg"></p>  
-
-
-<p align="center"><img src="https://github.com/l337quez/Apuntes-de-un-Ingeniero-Electronico/blob/master/images/MOTORRASMO/PINES.jpg"></p>  
