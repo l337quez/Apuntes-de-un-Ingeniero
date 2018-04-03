@@ -1,4 +1,5 @@
 _Apuntes de un Ingeniero Electronico_
+⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅
 
 # __Configuracion Open Collector (Colector Abierto)__   
 
@@ -20,8 +21,8 @@ Cuando se le inyecta un pulso bajo al transistor, el colector enviara un alto.
 En una configuracion simple, donde el colector esta conectado a VCC con una resistencia intermedia, el emisor a tierra y la base con otra resistencia. Teniendo en cuenta esta conexion pueden pasar dos cosas diferentes, dependiendo del dopaje del transistor puede ser PNP o NPN.
 
 
-Un transistor PNP, tendra una salidad en el colector aproximadamente igual a VCC. Si se le inyecta un alto, no pasara nada, pero si se le inyecta un bajo, el colector vera un bajo.
+Un transistor PNP, tendra una salidad en el colector aproximadamente igual a VCC. Si se le inyecta un alto en la base, no pasara nada, pero si se le inyecta un bajo en la base, el colector vera un bajo.
 
-Un transistor NPN,
+Un transistor NPN, tendra una salidad en el colector aproximadamente igual a VCC. Si se le inyecta un alto en la base, en el colector
 
 En resumen puedo decir que a partir de un pulso alto se genera un pulso bajo. Gracias al transistor que tiene esa capacidad de suichar, ahora si en vez de un transistor NPN se coloca un transistor PNP, el transistor suichara unicamente con un pulso bajo y salidad del colector sera un pulso bajo. A diferencia de un transistor NPN, que con un pulso alto en la base genera un pulso bajo (si el emisor esta conectado a tierra).
