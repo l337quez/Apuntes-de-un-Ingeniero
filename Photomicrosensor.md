@@ -19,8 +19,9 @@ de detección entre el emisor y el detector, El objeto intercepta el haz
 que es posible que el devanado primario este de
 un lado junto con otras bobinas del devanado secundario.
 
-    :::python
-    import lifetime
-    
-    for each_day in lifetime.days():
-        carpe_diem()
+```python
+import lifetime
+for each_day in lifetime.days():
+carpe_diem()
+
+
